@@ -39,3 +39,11 @@
 /localhost.pem
 /localhost-key.pem
 /serve_header.yml
+
+# Other extraneous stuff
+CMakeFiles/
+cmake_install.cmake
+nlohmann_json.pc
+nlohmann_jsonConfig.cmake
+nlohmann_jsonConfigVersion.cmake
+nlohmann_json.sln
