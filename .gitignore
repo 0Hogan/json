@@ -8,12 +8,12 @@
 .wsjcpp/*
 
 /.idea
-/cmake-build-*
 
 # Visual Studio / Visual Studio Code
 /.vs/
 /.vscode/
 /out/
+*.vcxproj*
 
 # clangd cache
 /.cache/
